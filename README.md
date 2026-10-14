@@ -15,8 +15,7 @@ This is the repository of my individual project of a assitive project for the vi
 **Advisor:** Prof. Carlotta Berry, Ph.D.  
 *Pioneer Academics Research Program — Introduction to Electronics, Microcontrollers, and Robotics (Summer 2026)*
 
-[ **Watch Live Demo on YouTube**](https://youtube.com/shorts/EYo3PqKyFFs?feature=share) | [ **Read Full Research Paper**](Jingkun_Li_Jarred_CaneVision_Research_Final_Paper.pdf)
-
+[ **Watch Live Demo on YouTube**](https://youtube.com/shorts/EYo3PqKyFFs?feature=share) | [ **Read Full Research Paper (PDF)**](https://github.com/Jarredli/CaneVision_Smart_White_Cane_for_the_Visually_Impaired/raw/main/Jingkun_Li_Jarred_CaneVision_Research_Final_Paper.pdf)
 </div>
 
 ---
